@@ -1,19 +1,31 @@
 # Diabetes Prediction App
 
-![App Preview](app_preview.png)
+![App Preview](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/diabetes%20prediction.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Data Source](#data-source)
 - [Machine Learning Model](#machine-learning-model)
-- [Installation](#installation)
+- [Documentasi](#documentasi)
 - [Dependencies](#dependencies)
 - [License](#license)
 - [Contributors](#contributors)
 
 ## Introduction
 The Diabetes Prediction App is a web application that uses machine learning to predict the likelihood of an individual having diabetes. It provides a user-friendly interface where users can input relevant medical information and obtain a prediction result.
+
+## Documentasi
+<p align="justify"> Here is a screenshot of the application displaying the diabetes prediction results based on user input. The screenshot showcases an intuitive application interface and clear prediction information. By utilizing a trained machine learning model, the application provides users with the opportunity to input data such as the number of pregnancies, glucose concentration, blood pressure, skinfold thickness, insulin, body mass index, diabetes pedigree function, and age. Upon entering the data, the application instantly provides a prediction of whether the user has a risk of diabetes or not. The prediction result is displayed clearly and informatively, offering users valuable insights into their health condition. This screenshot provides a tangible glimpse into the interactive and functional user experience of quickly and accurately predicting diabetes. With an intuitive interface and easily understandable prediction results, this application serves as a useful tool for individuals looking to monitor their health regarding diabetes risk.</p>
+
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/Statical%20description.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/BMI.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/DPF.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/blood.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/glucose%20vs%20graph.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/insulin.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/pregnancies%20vs%20age.png)
+![Screenshot Aplikasi](https://github.com/AriWiraSaputra/Project-Diabetes-Detection/blob/main/skin%20thickness.png)
 
 ## Usage
 To use the app, follow these steps:
